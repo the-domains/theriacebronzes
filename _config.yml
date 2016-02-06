@@ -1,4 +1,4 @@
-layout_spectrum: 0.7681282
+layout_spectrum: 1
 name: TheRiaceBronzes
 collections:
   - index:
@@ -12,7 +12,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 1
 color:
   brandStrength: 0.6691502
   saturation: 0.2216658
@@ -24,3 +23,4 @@ color:
     - '#3B28CC'
   lightness: 0.5268565
   rhythmicContrast: 0.4663551
+typography_spectrum: 1
