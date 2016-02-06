@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 1
+color:
+  lightness: 0.5268565
+  brandStrength: 0.6691502
+  saturation: 0.2216658
+  rhythmicContrast: 0.4663551
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: TheRiaceBronzes
