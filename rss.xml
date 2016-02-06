@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TheRiaceBronzes]]></title>
         <description><![CDATA[TheRiaceBronzes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theriacebronzes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 20:44:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 20:56:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theriacebronzes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sgarbi annuncia "Ho l'ok per i Bronzi a Milano" Caligiuri smentisce e il critico fa retromarcia - Cronache - Il Quotidiano della Calabria]]></title>
+            <description><![CDATA[<article><h1>Sgarbi annuncia "Ho l'ok per i Bronzi a Milano" Caligiuri smentisce e il critico fa retromarcia - Cronache - Il Quotidiano della Calabria</h1><p>Sgarbi annuncia «Ho l'ok per i Bronzi a Milano» Caligiuri smentisce e il critico fa retromarcia - Cronache - Il Quotidiano della Calabria</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d486cf72d102bae406491cc3b0bbe2dcc371354.jpg"></article>]]></description>
+            <link>https://thegrid.ai/theriacebronzes/sgarbi-annuncia-ho-land39ok-per-i-bronzi-a-milano-caligiur/index.html</link>
+            <guid isPermaLink="false">6f3e9d71-cd4e-4832-b825-8a59c4834948</guid>
+            <pubDate>Sat, 06 Feb 2016 20:55:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Il corpo nudo misura del mondo]]></title>
             <description><![CDATA[<article><h1>Il corpo nudo misura del mondo</h1><p>Il corpo nudo misura del mondo - Corriere.it</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf27f884334fe4cf38e0aca316d22791a748f1d5.jpg"></article>]]></description>
-            <link>undefinedil-corpo-nudo-misura-del-mondo-corriereit/index.html</link>
+            <link>https://thegrid.ai/theriacebronzes/il-corpo-nudo-misura-del-mondo-corriereit/index.html</link>
             <guid isPermaLink="false">23bc225d-2457-477a-9ae6-72d136696d02</guid>
             <pubDate>Sat, 06 Feb 2016 20:44:08 GMT</pubDate>
         </item>
