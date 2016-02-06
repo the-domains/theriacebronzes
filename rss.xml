@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheRiaceBronzes]]></title>
+        <description><![CDATA[TheRiaceBronzes]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Feb 2016 20:44:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Il corpo nudo misura del mondo]]></title>
+            <description><![CDATA[<article><h1>Il corpo nudo misura del mondo</h1><p>Il corpo nudo misura del mondo - Corriere.it</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf27f884334fe4cf38e0aca316d22791a748f1d5.jpg"></article>]]></description>
+            <link>undefinedil-corpo-nudo-misura-del-mondo-corriereit/index.html</link>
+            <guid isPermaLink="false">23bc225d-2457-477a-9ae6-72d136696d02</guid>
+            <pubDate>Sat, 06 Feb 2016 20:44:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
