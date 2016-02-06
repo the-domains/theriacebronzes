@@ -1,8 +1,8 @@
 ---
 description: 'www.repubblica.it/cronaca/2014/08/02/foto/bronzi_di_riace_con_tanga_e_velo_da_sposa_polemica-92989875/1/#1'
-dateModified: '2016-02-06T21:10:30.103Z'
+dateModified: '2016-02-06T21:20:36.716Z'
 title: ''
-datePublished: '2016-02-06T21:10:55.731Z'
+datePublished: '2016-02-06T21:23:12.517Z'
 author: []
 sourcePath: _posts/2016-02-06-wwwrepubblicaitcronaca20140802fotobronzi_di_riace_co.md
 published: true
@@ -28,3 +28,23 @@ Il Museo è tra i 50 luoghi d'arte più visitati d'Italia - Reggio - Gazzetta de
 Sgarbi annuncia «Ho l'ok per i Bronzi a Milano» Caligiuri smentisce e il critico fa retromarcia - Cronache - Il Quotidiano della Calabria
 
 <article style=""><h1>Sgarbi annuncia "Ho l'ok per i Bronzi a Milano" Caligiuri smentisce e il critico fa retromarcia - Cronache - Il Quotidiano della Calabria</h1><p>Il critico d'arte ha annunciato in una nota di avere ottenuto il permesso dall'assessore calabrese alla Cultura&amp;comma; ma dopo poco è arrivata la smentita secca da parte dello stesso assessore&amp;comma; quindi il dietrofront dello stesso Sgarbi</p><img src="http://www.ilquotidianoweb.it/resizer/600/315/true/cut1338288255423.jpg--.jpg" /></article>
+
+<article style=""><h1>I bronzi di Riace&amp;period; L'avventura di due eroi restituiti dal mare</h1><p>Come sono finiti in fondo al mare&amp;quest;Il nostro straordinario viaggio nel mondo dei Bronzi di Riace inizia centinaia&amp;comma; forse migliaia&amp;comma; di anni fa&amp;comma; a bordo di un veliero che cerca disperatamente di sopravvivere tra le onde di un mare in tempesta&amp;comma; il Mar Ionio&amp;period;</p><img src="http://wuz.it//mm/8381/00524035_b.jpg" /></article>
+
+I bronzi di Riace. L'avventura di due eroi restituiti dal mare di Angela Alberto e pubblicato da Rizzoli - Recensione - 9788817075541 - wuz
+
+<article style=""><h1>I bronzi di Riace&amp;period; L'avventura di due eroi restituiti dal mare</h1><p>Come sono finiti in fondo al mare&amp;quest;Il nostro straordinario viaggio nel mondo dei Bronzi di Riace inizia centinaia&amp;comma; forse migliaia&amp;comma; di anni fa&amp;comma; a bordo di un veliero che cerca disperatamente di sopravvivere tra le onde di un mare in tempesta&amp;comma; il Mar Ionio&amp;period;</p><img src="http://wuz.it//mm/8381/00524035_b.jpg" /></article>
+
+I bronzi di Riace. L'avventura di due eroi restituiti dal mare di Angela Alberto e pubblicato da Rizzoli - Recensione - 9788817075541 - wuz
+
+<article style=""><h1>Uno dei Bronzi di Riace "ospite" a Milano Ma si tratta di una copia tutta colorata - Società&amp;Cultura - Il Quotidiano della Calabria</h1><p>L'iniziativa è della Fondazione Prada che ha esposto una copia di uno dei guerrieri di Reggio Calabria nell'ambito di una mostra sulle sculture classiche</p><img src="http://www.ilquotidianoweb.it/resizer/600/315/true/1430809118128.jpg--.jpg" /></article>
+
+Uno dei Bronzi di Riace "ospite" a Milano Ma si tratta di una copia tutta colorata - Società&Cultura - Il Quotidiano della Calabria
+
+<article style=""><h1>Uno dei Bronzi di Riace "ospite" a Milano Ma si tratta di una copia tutta colorata - Società&amp;Cultura - Il Quotidiano della Calabria</h1><p>L'iniziativa è della Fondazione Prada che ha esposto una copia di uno dei guerrieri di Reggio Calabria nell'ambito di una mostra sulle sculture classiche</p><img src="http://www.ilquotidianoweb.it/resizer/600/315/true/1430809118128.jpg--.jpg" /></article>
+
+Uno dei Bronzi di Riace "ospite" a Milano Ma si tratta di una copia tutta colorata - Società&Cultura - Il Quotidiano della Calabria
+
+<article style=""><h1>Uno dei Bronzi di Riace "ospite" a Milano Ma si tratta di una copia tutta colorata - Società&amp;Cultura - Il Quotidiano della Calabria</h1><p>L'iniziativa è della Fondazione Prada che ha esposto una copia di uno dei guerrieri di Reggio Calabria nell'ambito di una mostra sulle sculture classiche</p><img src="http://www.ilquotidianoweb.it/resizer/600/315/true/1430809118128.jpg--.jpg" /></article>
+
+Uno dei Bronzi di Riace "ospite" a Milano Ma si tratta di una copia tutta colorata - Società&Cultura - Il Quotidiano della Calabria
