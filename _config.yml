@@ -1,14 +1,26 @@
-layout_spectrum: 0
-typography_spectrum: 1
+layout_spectrum: 0.6973019
+name: TheRiaceBronzes
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.5268565
   brandStrength: 0.6691502
   saturation: 0.2216658
-  rhythmicContrast: 0.4663551
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-name: TheRiaceBronzes
+  lightness: 0.5268565
+  rhythmicContrast: 0.4663551
+typography_spectrum: 1
