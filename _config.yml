@@ -1,5 +1,7 @@
-layout_spectrum: 0.6973019
 name: TheRiaceBronzes
+favicon: null
+layout_spectrum: 0.6973019
+typography_spectrum: 1
 collections:
   - index:
       navigable: true
@@ -12,15 +14,26 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.6691502
-  saturation: 0.2216658
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#fefffa'
+    - '#6eb3fb'
+    - '#feffff'
+  brandStrength: 1
   lightness: 0.5268565
+  saturation: 0.2216658
   rhythmicContrast: 0.4663551
-typography_spectrum: 1
+purpose: []
