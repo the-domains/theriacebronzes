@@ -1,7 +1,19 @@
-name: The Riace Bronzes
+cta:
+  version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0
 favicon: null
-layout_spectrum: 0.24367
-typography_spectrum: 0.12146
+name: The Riace Bronzes
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -14,26 +26,14 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0
+  saturation: 0
   brandColors:
     - '#ffffff'
     - '#fefffa'
     - '#6eb3fb'
     - '#feffff'
-  brandStrength: 0
   lightness: 1
-  saturation: 0
   rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.12146
